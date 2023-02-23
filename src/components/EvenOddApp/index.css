@@ -1,0 +1,9 @@
+/* Write your CSS here */
+.box {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  background-image: linear-gradient(to bottom, #ff6e7f, #bfe9ff);
+  height: 100vh;
+  text-align: center;
+}
